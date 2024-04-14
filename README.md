@@ -4,6 +4,10 @@
 در این پروژه backend با فریمورک FLASK میباشد که وظیفه فراهم کردن وب سرویس API بصورت JSON از سمت پایگاه داده است.
 سمت فرانت اند (front-end) با کمک فریمورک سریع و زیبای ویو جی اس ( Vue.js ) توسعه داده میشود.
 تمامی پروژه تک صفحه ای یا تکنولوژی SPA می باشد.
+---
+ [ لینک تماشای دوره در آپارات](https://www.aparat.com/playlist/9640827) 
+  
+  [لینک تماشای دوره در یوتیوب ](https://youtube.com/playlist?list=PL9KHRBVQQhJfD1SJ5JEX1xLiymDflDHP0&si=KIWwyzhB5en0K-KT)
 
 ---
 ![055](https://github.com/nikzad-avasam/SPA-blog-with-flask-vue.js/assets/13311003/0ce90aa9-a0d5-45a2-9951-3f6dd646a558)
